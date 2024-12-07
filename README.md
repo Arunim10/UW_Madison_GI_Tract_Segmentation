@@ -8,8 +8,8 @@ Each year, millions of people are diagnosed with gastrointestinal cancers, and a
 
 This competition challenges participants to develop a method to automate this segmentation process, reducing treatment times and enabling better care for patients.
 
-![In this figure, the tumor (pink thick line) is close to the stomach (red thick line). High doses of radiation are directed to the tumor while avoiding the stomach. The dose levels are represented by the rainbow of outlines, with higher doses represented by red and lower doses represented by green.](https://github.com/user-attachments/assets/31485428-6796-4759-bc80-cc1398a480ec)
-
+![Image](https://github.com/user-attachments/assets/31485428-6796-4759-bc80-cc1398a480ec)
+In this figure, the tumor (pink thick line) is close to the stomach (red thick line). High doses of radiation are directed to the tumor while avoiding the stomach. The dose levels are represented by the rainbow of outlines, with higher doses represented by red and lower doses represented by green.
 
 ## 🩺 About the Competition
 ### 1. Dataset:
